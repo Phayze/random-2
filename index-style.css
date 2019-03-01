@@ -1,0 +1,83 @@
+body{
+    background: #F8EFBA;
+}
+.container{
+   
+    
+}
+.container h1{
+    margin: 10px 0px;
+   font-size: 60px;
+   text-align: center;
+}
+.container p{
+    margin: -10px 0px;
+    text-align: center;
+}
+.container .logo{
+    transform: rotate(40deg);
+    margin: 35px -25px;
+    align-content: center;
+}
+.bannerdesc h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.banner{
+    margin: 20px 0px;
+    width: 400px;
+    height: 400px;
+    background: url(pizza1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.one{
+    margin: -430px 150px;
+    width: 50px;
+    height: 50px;
+    background-color: #F8EFBA;
+    transform: skew(0, 40deg)
+}
+.two{
+    margin: 380px 210px;
+    width: 50px;
+    height: 50px;
+    background-color: #F8EFBA;
+    transform: skew(0, -40deg)
+}
+.imagetwo{
+    width: 400px;
+    height: 400px;
+    background: url(pizza2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.imagethree{
+    margin: -430px 0px;
+    width: 400px;
+    height: 400px;
+    background: url(pizza3.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+.three{
+    margin: -80px 150px;;
+    width: 50px;
+    height: 50px;
+    background-color: #F8EFBA;
+    transform: skew(0, 40deg)
+}
+.four{
+    margin: 30px 200px;
+    width: 50px;
+    height: 50px;
+    background-color: #F8EFBA;
+    transform: skew(0, -40deg)
+}
+.threefour{
+    margin: 430px 0px;
+}
